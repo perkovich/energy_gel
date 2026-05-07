@@ -21,15 +21,17 @@ Differences to commercial gels
 
 -  as it doesn't contain ``preservatives``, it needs to be stored cool/frozen. I never experienced it going bad though (I guess as sugar is a natural preservative)
 
+Dextrose (Bulk): 35ml = 25g => **1ml=0,71g**
+Maltodextrine (Bulk): 105ml = 50g => **1ml=0,48g**
 
 Ingredients
 **********
 
-*  1 1/2 cup **water**
+*  360g **water**
 
-*  2 ¾ cup **maltodextrin**
+*  317g **maltodextrin**
 
-*  1 cup **dextrose** *--> I don't like it that sweet, so I use 0.5 cups dextrose on 3 cups maltodextrin*
+*  170g **dextrose** *--> I don't like it that sweet, so I use 85g dextrose on 346g maltodextrin
 
 *  1 tbsp rapeseed **oil** *--> any kind of neutral oil, if you want a Mediterranean flavor, you can, of course, use olive oil ;)*
 
@@ -41,7 +43,7 @@ Ingredients
 
 *  opt: pinch of sodium bicarbonate, or baking powder 
 
-*  opt: pinch of salt
+*  1: pinch of salt/electrolyte
 
 
 Instructions
