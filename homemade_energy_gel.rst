@@ -50,6 +50,20 @@ Ingredients and original recipe
 
 **≈ 600ml liquid (848g) - liquid enough to drink from a softflask**
 
+Conversions
+**********
+Water 60	120	180	240	300	360	420	480	540	600
+
+Maltodextrin	53	106	159	211	264	317	370	423	476	528
+
+Dextrose	28	57	85	113	142	170	198	227	255	283
+
+Elektrolyte	0.2	0.3	0.5	0.7	0.8	1.0	1.2	1.3	1.5	1.7
+
+Total [g]	141	283	424	565	707	848	989	1131	1272	1413
+
+Total [ml]	100	200	300	400	500	600	700	800	900	1000
+
 Instructions
 **********
 
