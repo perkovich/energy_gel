@@ -21,7 +21,10 @@ Differences to commercial gels
 
 -  as it doesn't contain ``preservatives``, it needs to be stored cool/frozen. I never experienced it going bad though (I guess as sugar is a natural preservative)
 
+**Volume vs Weight**
+
 Dextrose (Bulk): 35ml = 25g => **1ml=0,71g**
+
 Maltodextrine (Bulk): 105ml = 50g => **1ml=0,48g**
 
 Ingredients
