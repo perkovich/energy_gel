@@ -48,6 +48,7 @@ Ingredients
 
 *  1g of electrolyte powder
 
+**= 600ml liquid**
 
 Instructions
 **********
