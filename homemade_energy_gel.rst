@@ -46,7 +46,7 @@ Ingredients
 
 *  opt: pinch of sodium bicarbonate, or baking powder 
 
-*  1: pinch of salt/electrolyte
+*  1g of electrolyte powder
 
 
 Instructions
