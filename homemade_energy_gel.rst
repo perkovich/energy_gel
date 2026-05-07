@@ -27,7 +27,7 @@ Dextrose (Bulk): 35ml = 25g => **1ml=0,71g**
 
 Maltodextrine (Bulk): 105ml = 50g => **1ml=0,48g**
 
-Ingredients
+Ingredients and original recipe
 **********
 
 *  360g **water**
@@ -35,6 +35,8 @@ Ingredients
 *  317g **maltodextrin**
 
 *  170g **dextrose** *--> I don't like it that sweet, so I use 85g dextrose on 346g maltodextrin
+
+*  1g of electrolyte powder
 
 *  1 tbsp rapeseed **oil** *--> any kind of neutral oil, if you want a Mediterranean flavor, you can, of course, use olive oil ;)*
 
@@ -46,9 +48,7 @@ Ingredients
 
 *  opt: pinch of sodium bicarbonate, or baking powder 
 
-*  1g of electrolyte powder
-
-**= 600ml liquid**
+**≈ 600ml liquid (848g) - liquid enough to drink from a softflask**
 
 Instructions
 **********
